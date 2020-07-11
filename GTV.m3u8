@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="Inggris",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="http://salonbondang.masuk.web.id/trial/ember/vidio-gtv-t1214L.m3u8
